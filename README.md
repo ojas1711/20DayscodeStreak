@@ -1,10 +1,9 @@
 
-# 20 Days of code
+# 20 days of code streak
+Here is the day wise record for my code streak of 20 days. I will be trying to create some projetcts and websites using html,css and javascript.
 
-Hello!
-This is 20DaysOfCode streak  challenge starting from 10 January, 2023. In this I'm mainly focusing on Problem Solving in javaScript.
- 
- Day 1  
+
+  Day 1  
 
  Day 2
 
