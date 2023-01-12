@@ -3,7 +3,7 @@
 Here is the day wise record for my code streak of 20 days. I will be trying to create some projetcts and websites using html,css and javascript.
 
 
-  Day 1 12 Jan 2023 -  [Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%201)
+  Day 1- 12 Jan 2023 -  [Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%201)
 
  Day 2
 
