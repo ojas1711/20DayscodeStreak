@@ -5,7 +5,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
 
   Day 1- 12 Jan 2023 -  [Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%201)
 
- Day 2
+ Day 2- 13 Jan 2023 - [TicTacToe](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%202) 
 
  Day 3
 
