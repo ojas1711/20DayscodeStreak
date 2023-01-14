@@ -7,7 +7,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
 
  Day 2- 13 Jan 2023 -  [To Do List](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%202)
 
- Day 3
+ Day 3- 14 Jan 2023 - [Loan Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%203)
 
  Day 4
 
