@@ -9,7 +9,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
 
  Day 3- 14 Jan 2023 - [Loan Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%203)
 
- Day 4
+ Day 4- 15 Jan 2023 - [BMI Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%204)
 
  Day 5
 
