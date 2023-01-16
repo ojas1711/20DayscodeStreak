@@ -11,7 +11,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
 
  Day 4- 15 Jan 2023 - [BMI Calculator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%204)
 
- Day 5
+ Day 5- 16 Jan 2023 - [Pong Game](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%205)
 
  Day 6
 
