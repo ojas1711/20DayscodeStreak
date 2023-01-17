@@ -13,7 +13,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
 
  Day 5- 16 Jan 2023 - [Pong Game](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%205)
 
- Day 6
+ Day 6- 17 Jan 2023 - [Quote Generator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%206)
 
  Day 7
  
