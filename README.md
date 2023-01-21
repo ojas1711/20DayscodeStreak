@@ -21,7 +21,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 9- 20 Jan 2023 - [Maze Game](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%209)
  
- Day 10
+ Day 10- 21 Jan 2023 - [Screensaver Animation](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2010)
  
  Day 11
  
