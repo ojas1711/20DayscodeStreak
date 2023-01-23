@@ -25,7 +25,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 11- 22 Jan 2023 - [Simon Game](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2011)
  
- Day 12
+ Day 12- 23 Jan 2023 - [Palindrome Checker](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2012)
  
  Day 13
  
