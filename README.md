@@ -27,7 +27,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 12- 23 Jan 2023 - [Palindrome Checker](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2012)
  
- Day 13
+ Day 13- 24 Jan 2023 - [Dynamic Landing Page](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2013)
  
  Day 14
  
