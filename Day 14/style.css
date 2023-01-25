@@ -1,0 +1,239 @@
+/* Scrollbar Webkit */
+::-webkit-scrollbar{
+  width:3px;
+  background:#fdfdfd;
+}
+::-webkit-scrollbar-thumb{
+  background:#ddd;
+}
+::selection{
+  background:#289ADA;
+  color:#ffffff;
+}
+body{
+ /* Thanks to Unsplash for img*/ background:url('https://25.media.tumblr.com/3f62ba4c56724f227dba2b4415a61049/tumblr_myebqysYZ81st5lhmo1_1280.jpg') no-repeat center center #333;
+  -moz-background-size:cover;
+  background-size:cover;
+  font-family:'Lato', cursive;
+  font-weight:small;
+  overflow:auto;
+}
+h1,h2,h3,h4,h5{
+  font-family:'Emblema One', cursive;
+}
+a{
+  color:#19AA9E;
+}
+figure img{
+  display:block;
+  width:100%;
+}
+.main{
+  position:relative;
+  display:block;
+  width:600px;
+  height:600px;
+  background:rgb(0,0,0);
+  background:rgba(0,0,0,0);
+  overflow:hidden;
+  margin:20px auto;
+}
+.main-inner{
+  position:absolute;
+  top:0;
+  left:0;
+  overflow:hidden;
+  display:block;
+  width:600px;
+  height:600px;
+  margin:0;
+  background: #34495E;
+  -webkit-transition:all 0.8s ease;
+  -moz-transition:all 0.8s ease;
+  -o-transition:all 0.8s ease;
+  transition:all 0.8s ease;
+  -webkit-transform:
+    perspective(600px)     
+    rotateY(0deg)     
+    rotateX(0deg)     
+    translatex(0%)     
+    translateY(0%);
+  -moz-transform:
+    perspective(600px)     
+    rotateY(0deg)     
+    rotateX(0deg)     
+    translatex(0%)     
+    translateY(0%);
+  -ms-transform:
+    perspective(600px)     
+    rotateY(0deg)     
+    rotateX(0deg)     
+    translatex(0%)     
+    translateY(0%);
+  -o-transform:
+    perspective(600px)     
+    rotateY(0deg)     
+    rotateX(0deg)     
+    translatex(0%)     
+    translateY(0%);
+  transform:
+    perspective(600px)     
+    rotateY(0deg)     
+    rotateX(0deg)     
+    translatex(0%)     
+    translateY(0%);
+  z-index:999999;
+}
+.box{
+  position:absolute;
+  top:50px;
+  display:block;
+  padding:5px;
+  margin-bottom:20px;
+  overflow-y:auto;
+  overflow-x:hidden;
+  width:590px;
+  height:540px;
+  background:#ecf0f1;
+  color:#2c3e50;
+  margin:0;
+}
+.active{
+  -webkit-transition:all 0.8s ease;
+  -moz-transition:all 0.8s ease;
+  -o-transition:all 0.8s ease;
+  transition:all 0.8s ease;
+  -webkit-transform:
+    perspective(540px) 
+    rotateY(36deg) 
+    rotateX(0deg) 
+    translatex(200px) 
+    translateY(25px);
+  -moz-transform:
+    perspective(540px) 
+    rotateY(36deg) 
+    rotateX(0deg) 
+    translatex(200px) 
+    translateY(25px);
+  -ms-transform:
+    perspective(540px) 
+    rotateY(36deg) 
+    rotateX(0deg) 
+    translatex(200px) 
+    translateY(25px);
+  -o-transform:
+    perspective(540px) 
+    rotateY(36deg) 
+    rotateX(0deg) 
+    translatex(200px) 
+    translateY(25px);
+  transform:
+    perspective(540px) 
+    rotateY(36deg) 
+    rotateX(0deg) 
+    translatex(200px) 
+    translateY(25px);
+  
+  height:540px;
+}
+.menu{
+  display:inline-block;
+  width:40px;
+  height:40px;
+  padding:2px;
+  margin-left:4px;
+  overflow:hidden;
+}
+.menu span{
+  width:38px;
+  height:8px;
+  margin-top:5px;
+  padding:0;
+  display:block;
+  background:#ecf0f1;
+  -webkit-transition:background 0.8s ease;
+  -moz-transition:background 0.8s ease;
+  -o-transition:background 0.8s ease;
+  transition:background 0.8s ease;
+}
+.menu:hover span{
+  background:#32E2BE;
+  -webkit-transition:background 0.8s ease;
+  -moz-transition:background 0.8s ease;
+  -o-transition:background 0.8s ease;
+  transition:background 0.8s ease;
+}
+.sidebar{
+  margin-left:-220px;
+  background:#2c3e50;
+  display:block;
+  width:210px;
+  height:600px;
+  -webkit-transition:margin-left 0.8s ease;
+  -moz-transition:margin-left 0.8s ease;
+  -o-transition:margin-left 0.8s ease;
+  transition:margin-left 0.8s ease;
+  z-index:100;
+}
+.show{
+  margin-left:0;
+  -webkit-transition:margin-left 0.8s ease;
+  -moz-transition:margin-left 0.8s ease;
+  -o-transition:margin-left 0.8s ease;
+  transition:margin-left 0.8s ease;
+}
+
+.sidebar ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.sidebar li{
+  display:block;
+}
+.sidebar a,.sidebar label{
+  text-align:center;
+  text-decoration:none;
+  display:block;
+  color:#ecf0f1;
+  background:#34495e;
+  padding-top:6px;
+  padding-bottom:6px;
+  margin-bottom:2px;
+}
+.sidebar label{
+  color:#34495e;
+  background:#E7E7E7;
+}
+.sidebar a:hover{
+  color:#AAA;
+  background:#EEE;
+}
+.logo{
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border: 4px solid #2C3E50;
+}
+.logo:before{
+  content:" A . L . F DESIGN ";
+  background:#1CEBC1;
+  background:rgba(28, 235, 193, 0.75);
+  position:absolute;
+  top:0;
+  left:0;
+  width:210px;
+  line-height:210px;
+  height:210px;
+  margin:0;
+  padding:0;
+  display:block;
+  text-align:center;
+  font-weight:700;
+  font-size:25px;
+  font-family:Papyrus, fantasy;
+  color:#ecf0f1;
+  text-shadow:0 1px 1px #8D8B8B;
+}
