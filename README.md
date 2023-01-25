@@ -29,7 +29,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 13- 24 Jan 2023 - [Dynamic Landing Page](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2013)
  
- Day 14- 25 Jan 2023 - [Creative Website Defining Js Query](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2014)
+ Day 14- 25 Jan 2023 - [Creative Website Defining jQuery](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2014)
  
  Day 15
  
