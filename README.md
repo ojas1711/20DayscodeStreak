@@ -35,7 +35,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 16- 27 Jan 2023 - [Random Choice Picker](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2016)
  
- Day 17
+ Day 17- 28 Jan 2023 - [Double tap to like animation](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2017)
  
  Day 18
  
