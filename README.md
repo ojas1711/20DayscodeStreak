@@ -37,7 +37,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 17- 28 Jan 2023 - [Double tap to like animation](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2017)
  
- Day 18
+ Day 18- 29 Jan 2023 - [Verify Account UI](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2018)
  
  Day 19
  
