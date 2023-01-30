@@ -39,7 +39,7 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 18- 29 Jan 2023 - [Verify Account UI](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2018)
  
- Day 19
+ Day 19- 30 Jan 2023 - [Netflix Mobile Navigation](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2019)
  
  Day 20
 
