@@ -41,5 +41,4 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 19- 30 Jan 2023 - [Netflix Mobile Navigation](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2019)
  
- Day 20
-
+ Day 20- 31 Jan 2023 - [Random Image Generator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2020)
