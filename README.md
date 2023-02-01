@@ -43,4 +43,4 @@ Here is the day wise record for my code streak of 20 days. I will be trying to c
  
  Day 20- 31 Jan 2023 - [Random Image Generator](https://github.com/ojas1711/20DayscodeStreak/tree/main/Day%2020)
  
- Poster- Save Earth - (https://github.com/ojas1711/20DayscodeStreak/tree/main/%20Poster%20on%20Save%20Earth)
+ Poster- [Save Earth](https://github.com/ojas1711/20DayscodeStreak/tree/main/%20Poster%20on%20Save%20Earth)
