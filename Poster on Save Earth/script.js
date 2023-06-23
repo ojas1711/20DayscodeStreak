@@ -1,8 +1,4 @@
 
-// © 2022 vkive
-// link to download the proyect 
-// https://github.com/vkive/stunning-parallax.git
-// Follow me on Codepen
 
 document.addEventListener("mousemove", function(e){
                 const bg= document.querySelector('.bg');
