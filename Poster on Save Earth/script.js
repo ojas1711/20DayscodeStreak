@@ -1,5 +1,3 @@
-
-
 document.addEventListener("mousemove", function(e){
                 const bg= document.querySelector('.bg');
                 const bird = document.querySelector('.bird');
